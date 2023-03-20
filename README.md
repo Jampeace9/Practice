@@ -1,1 +1,1 @@
-where i personally explore programming
+struct
